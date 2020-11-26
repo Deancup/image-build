@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/coredns:1.6.9
+FROM gitlab/gitlab-ce:13.6.1-ce.0
